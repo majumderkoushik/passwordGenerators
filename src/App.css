@@ -1,0 +1,10 @@
+#root {
+  text-align: left;
+}
+
+.box {
+  box-shadow: 5px 5px 5px 5px red;
+  border-radius: 15px;
+  padding: 40px;
+  margin: 80px 100px;
+}
